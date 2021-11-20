@@ -10,4 +10,4 @@ Here is a repo that contains my python scripts
 | > | greater than | a > b |
 | < | lesser than | a < b |
 | <= | lesser than or equal to | a <= b |
-| >= | greater than sign | a >= |
+| >= | greater than or equal to | a >= |
