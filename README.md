@@ -1,6 +1,7 @@
 # Python-Crash-Course
 Here is a repo that contains my python scripts 
 
+**Python Comparison Operators**
 
 | Operator | Description | Example |
 | -------- | ----------- | ------- |
@@ -9,4 +10,4 @@ Here is a repo that contains my python scripts
 | > | greater than | a > b |
 | < | lesser than | a < b |
 | <= | lesser than or equal to | a <= b |
-| >= | gte | a >= |
+| >= | greater than sign | a >= |
